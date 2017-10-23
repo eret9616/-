@@ -1,0 +1,22 @@
+.right{
+   background:none;
+}
+
+.wrapper p{
+  color:#A94442;
+}
+
+.wrapper{
+    margin-top: 186px;
+
+}
+
+.select{
+    font-weight: bold;
+}
+
+.right .wrapper a{
+  color: white;
+  text-decoration: none;
+  background: deeppink;
+}

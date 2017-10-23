@@ -1,0 +1,8 @@
+SQL数据库名称为myweb
+
+数据表 board 和 gallery分别对应 留言板和相册
+
+board中id（主键） username msg intime
+gallery中id（主键） title content img
+
+将#.htaccess的#删除（这是一个URL重写文件）

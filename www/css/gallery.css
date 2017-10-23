@@ -1,0 +1,40 @@
+.right{
+  float: right;
+   background: #eee;
+}
+
+.left{
+   position: fixed;
+}
+
+
+.photo{
+  width: 100%;
+  padding-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 9px
+}
+
+.photo img{
+  width: 100%;
+}
+
+.right .item{
+            max-width: 80%;
+            min-width: 50%;
+            margin:20px 0;
+            margin-bottom:27px;
+            margin-left: 29px;
+            display: inline-block;
+            padding: 25px;
+            border-radius: 1px;
+          }
+
+
+.status{
+  /*padding-left: 3px;*/
+  padding: 3px;
+  display: inline-block;
+  color: white;
+  background: rgba(0,0,0,.68);
+}

@@ -1,0 +1,19 @@
+
+.right{
+ background: #eee;
+}
+
+.article{
+  max-width: 400px;
+  min-height: 50px;
+  background: #ccc;
+  margin-top: 5px;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+textarea{
+  resize:none;
+  width: 220px;
+  height: 120px;
+}

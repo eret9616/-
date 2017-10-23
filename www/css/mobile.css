@@ -1,0 +1,113 @@
+html,body{
+  height: 100%;
+
+}
+
+
+.left{
+     width: 100%; background: #eee;
+     min-width: 301px;
+     position:static!important;
+  }
+
+  .left .item{
+    margin-left: 0;
+    text-align: center;
+  }
+
+.left .header{
+  margin:0;
+  text-align: center;
+  margin-top: 15px;
+}
+
+
+.right{
+
+       min-height: calc( 100% - 191px);
+       width: 100%;
+       min-width: 301px;
+
+       background-repeat:no-repeat;
+       background-position:center;
+       background-size: 70%;
+}
+
+.right{background-size: 100%;
+
+
+}
+
+#message{
+  margin-left: 6%;
+  margin-right: 6%;
+  padding-bottom: 15px;
+}
+
+
+.right img{
+  max-width: 80%;
+}
+
+.right .item{
+  margin:0!important;
+  padding: 15px;
+}
+
+
+.right .item .photo{
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.right .item .photo img{
+  display: block;
+  margin:0 auto!important;
+}
+
+
+.wchat{display: none;}
+
+
+li{ display: inline-block;}
+
+
+.contact{
+  display: none;
+}
+
+/*"相册"中的内容*/
+#tablet{display: none;}
+
+/*"留言板" 中的内容*/
+.container{text-align: center;
+           margin-top: 30px;
+           margin-bottom: 30px;
+}
+
+#content{width: 80%;}
+#user{ margin-top: 15px;}
+
+.article{
+  max-width: 500px!important;
+    margin:0 auto;
+}
+
+
+/*"关于我" 中的内容*/
+#testt{
+      margin-top: 180px;
+}
+
+
+/*"声明" 中的内容*/
+.right .wrapper{
+  font-size: 15px;
+  line-height: 1.3;
+  width: 100px;
+  margin:0 auto;
+  margin-top:20%;
+
+}
+
+#exit{ display:block; width: 100px; margin:0 auto;}

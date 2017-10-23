@@ -1,0 +1,9 @@
+RewriteEngine on 
+RewriteRule "^gallery$" "gallery.php"
+RewriteRule "^index$" "index.php"
+RewriteRule "^aboutme$" "aboutme.php"
+RewriteRule "^contact$" "contact.html"
+RewriteRule "^declare$" "declare.php"
+RewriteRule "^board$" "myboard.php"
+RewriteRule "^wechatinfo$" "wechatinfo.html"
+RewriteRule "^login$" "login.php"

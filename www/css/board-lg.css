@@ -1,0 +1,9 @@
+.right{
+  padding-left: 35px;
+  padding-top: 35px;
+}
+
+.container{margin-bottom: 20px;}
+
+
+.right .content{display: none;}
