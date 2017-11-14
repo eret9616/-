@@ -1,5 +1,5 @@
 # websiteproject
-个人博客的原型，传统又古老的后端MVC。<br>实现了手机端适配，图片上传，留言板，登陆后对内容进行删除的功能。
+个人博客的原型。<br>实现了手机端适配，图片上传，留言板，登陆后对内容进行删除的功能。
 #
 ![image](https://github.com/eret9616/websiteproject/blob/master/show.gif)
 
