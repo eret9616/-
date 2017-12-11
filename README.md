@@ -4,5 +4,4 @@
 ![image](https://github.com/eret9616/websiteproject/blob/master/show.gif)
 
 #
-制作的过程中对移动端和es6语法的兼容性有了一些认识。<br>
-主要目的是想体验自己建站的整体的流程，买了云虚拟主机和<a href="http://www.huhao.info">域名</a>
+想体验自己建站的整体的流程，买了云虚拟主机和<a href="http://www.huhao.info">域名</a>
